@@ -19,6 +19,14 @@ https://battery-rul-predictor.streamlit.app/
 
 ---
 
+## 📄 Research Paper
+
+A detailed research paper has been written for this project covering methodology, data preprocessing, model training, evaluation, and results.
+
+📥 Download Paper: [Battery RUL Prediction Research Paper](research_paper/Battery_RUL_Prediction_Paper.pdf)
+
+---
+
 ## Features
 
 - Data preprocessing and cleaning
